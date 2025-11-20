@@ -1,0 +1,3 @@
+Agentic Multimodal Expense Processing (AMEP): End-to-end GenAI pipeline using Multimodal LLMs for zero-shot data extraction from invoice images. Implements an Agentic MCP server for autonomous classification, transforming unstructured documents into structured expense reports in real-time Google Sheets for analytics.<img width="1920" height="1080" alt="Screenshot (879)" src="https://github.com/user-attachments/assets/3c3ea3b0-9b29-4bae-90ad-b05e292755b8" />
+<img width="1920" height="1080" alt="Screenshot (878)" src="https://github.com/user-attachments/assets/6e70f661-35f5-4bae-8af6-60fc2c864b7b" />
+<img width="1920" height="1080" alt="Screenshot (880)" src="https://github.com/user-attachments/assets/afdf1913-39ca-49c5-b2a9-a8bc7708c07c" />
